@@ -1,0 +1,5 @@
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+#000000
+#5e0280
+#f0f2f1
+#989898
